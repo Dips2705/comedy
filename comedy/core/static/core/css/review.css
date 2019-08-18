@@ -1,0 +1,10 @@
+.imdb-user-review.collapsable .review-container {
+    max-height: 300px;
+    overflow: hidden;
+    -webkit-transition: max-height 1s;
+    transition: max-height 1s;
+}
+
+.imdb-user-review .review-container {
+    padding-top: 15px;
+}
